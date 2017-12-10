@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/configmanager.iml" filepath="$PROJECT_DIR$/configmanager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configmanager-biz/configmanager-biz.iml" filepath="$PROJECT_DIR$/configmanager-biz/configmanager-biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configmanager-client/configmanager-client.iml" filepath="$PROJECT_DIR$/configmanager-client/configmanager-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configmanager-dao/configmanager-dao.iml" filepath="$PROJECT_DIR$/configmanager-dao/configmanager-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configmanager-web/configmanager-web.iml" filepath="$PROJECT_DIR$/configmanager-web/configmanager-web.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,5 @@
+com/zjj/configmanager/dao/mapper/AppServerMapper.class
+com/zjj/configmanager/dao/mapper/ConfigItemMapper.class
+com/zjj/configmanager/dao/AppTest.class
+com/zjj/configmanager/dao/entity/ConfigItem.class
+com/zjj/configmanager/dao/entity/AppServer.class
